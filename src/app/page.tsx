@@ -449,12 +449,6 @@ const App = () => {
             <a href="#katalog" className="bg-white text-slate-950 px-10 py-4 rounded-full font-bold text-lg hover:scale-105 transition-transform flex items-center gap-2">
               Kataloğu Keşfet <ChevronRight size={20} />
             </a>
-            <a href="https://www.robotsepeti.com/" target="_blank" rel="noopener noreferrer" className="text-white flex items-center gap-3 px-8 py-4 font-semibold hover:text-orange-400 transition-colors group">
-              <span className="w-12 h-12 rounded-full border border-white/30 flex items-center justify-center group-hover:border-orange-400 transition-colors">
-                <Play size={18} className="ml-1" fill="currentColor" />
-              </span>
-              Sistem Entegrasyon Videosu
-            </a>
           </div>
         </div>
       </section>
